@@ -1,0 +1,13 @@
+---
+title: "trial2"
+author: "Yeonuk"
+date: "September 15, 2017"
+output: html_document
+---
+
+
+```{r}
+data1<-read.table("2010_GCK.txt", header=T)
+plot(data1$LE,data1$NEE,xlab="Evapotranspiration",ylab="Net Ecosystem Exchange",main="Temperate conifer forest ET-NEE relationship")
+```
+
