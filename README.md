@@ -10,9 +10,12 @@ I made this readme file and this repository to submit first homework.
 ## 1. Introduce my self
 
 Hi. I am **Yeonuk Kim** from South Korea.
+
 I graduated from [Seoul National University,](https://www.useoul.edu/) and I am an incoming MSc student for [RES program.](http://ires.ubc.ca/) :thumbsup: I am a member of [Ecohydro lab](http://ecohydro.ires.ubc.ca/).
+
 Please see my contact info bellow.
 
+|------------|-------------------------|
 |  *E-mail*  | yeonuk.kim.may@gmail.com|
 |   *Tel*    |     +1-778 927 9959     |
 
