@@ -1,5 +1,5 @@
 # STAT545-hw01-Kim-Yeonuk
+## Welcome to my repository!
 
-Welcome to my repository!
+###**1. README making from Github**
 
-This is test line from GitHub.
