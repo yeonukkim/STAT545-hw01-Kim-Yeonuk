@@ -10,6 +10,8 @@ I made this readme file and this repository to submit the first homework.
 
 
 
+
+
 ## 1. Introduce my self
 
 Hi. I am **Yeonuk Kim** from South Korea.
