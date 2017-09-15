@@ -23,5 +23,5 @@ One of my interesting things is that I will marry next year!!
 
 This is my wedding picture taken prior to actual wedding. 
 
-![wedding](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/background.png)
+![wedding](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/DSC00005.jpg)
 
