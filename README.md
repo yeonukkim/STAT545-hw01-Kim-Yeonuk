@@ -1,5 +1,5 @@
 # STAT545-hw01-Kim-Yeonuk: *Welcome to my repository!* 
-:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
 I made this readme file and this repository to submit first homework. 
 
