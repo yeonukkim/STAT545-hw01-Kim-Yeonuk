@@ -1,11 +1,14 @@
 # STAT545-hw01-Kim-Yeonuk: *Welcome to my repository!* 
 :sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
 
-I made this readme file and this repository to submit first homework. 
+I made this readme file and this repository to submit the first homework. 
 
 > The first part (Introduce myself) was designed at GitHub to be familiar with Markdown.
 
 > The seconde part (My research interest) was pushed from R-studio.
+
+
+
 
 ## 1. Introduce my self
 
@@ -15,7 +18,8 @@ I graduated from [Seoul National University,](https://www.useoul.edu/) and I am 
 
 Please see my contact info bellow.
 
-|------------|-------------------------|
-|  *E-mail*  | yeonuk.kim.may@gmail.com|
-|   *Tel*    |     +1-778 927 9959     |
+   
+------------|-------------------------
+  *E-mail*  | yeonuk.kim.may@gmail.com
+   *Tel*    |     +1-778 927 9959     
 
