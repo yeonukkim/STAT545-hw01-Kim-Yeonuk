@@ -21,5 +21,5 @@ Please see my contact info bellow.
 
 One of my interesting things is that I will marry next year!! This is my wedding picture. 
 
-![](STAT545-hw01-Kim-Yeonuk/background.png)
+![ ](STAT545-hw01-Kim-Yeonuk/background.png)
 
