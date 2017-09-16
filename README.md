@@ -43,4 +43,3 @@ I analyzed various time series of micrometeorogical data like CO2 flux, evapotra
 - I will also analyze **remote sensing** data by using R for my graduate work. 
 + Therefore, proficiency in R is really important for me!  
 
-
