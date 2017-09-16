@@ -17,8 +17,8 @@ summary(gapminder)
 # 2. Drawing figure (life Exp-GDP/cap)
 
 ```{r}
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1962, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1960")
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1982, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1980")
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2002, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="2000")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1962, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1962")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1982, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1982")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2002, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="2002")
 ```
 

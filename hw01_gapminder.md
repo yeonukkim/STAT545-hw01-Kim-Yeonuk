@@ -44,19 +44,19 @@ summary(gapminder)
 ====================================
 
 ``` r
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1962, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1960")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1962, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1962")
 ```
 
 ![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-1.png)
 
 ``` r
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1982, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1980")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1982, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1982")
 ```
 
 ![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-2.png)
 
 ``` r
-plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2002, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="2000")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2002, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="2002")
 ```
 
 ![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-2-3.png)
