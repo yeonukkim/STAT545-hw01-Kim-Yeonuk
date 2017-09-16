@@ -1,0 +1,24 @@
+---
+title: "hw01_gapminder"
+author: "Yeonuk"
+date: "September 15, 2017"
+output: github_document
+---
+
+# 1. Load Gapminder
+
+```{r}
+library(gapminder)
+head(gapminder)
+summary(gapminder)
+
+```
+
+# 2. Drawing figure (life Exp-GDP/cap)
+
+```{r}
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1962, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1960")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 1982, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="1980")
+plot(lifeExp ~ gdpPercap, gapminder, subset = year == 2002, log = "x", xlab="GDP/Cap(log scale)", ylab= "life expectation", main="2000")
+```
+

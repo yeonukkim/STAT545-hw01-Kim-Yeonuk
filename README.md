@@ -38,7 +38,7 @@ My previous research was related to data analysis.
 
 I analyzed various time series of micrometeorogical data like CO2 flux, evapotranspiration. I worked with MATLAB at that time, but I plan to use R in the future. I am not good at R now, but I am sure this course will help me to use this tool well. The picture is an example what I worked for. Also, you can see my journal paper at [this link.](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=iPxIapwAAAAJ&citation_for_view=iPxIapwAAAAJ:u-x6o8ySG0sC)
 
-![figure](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/trial2.md)
+![figure](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/trail2.md)
 
 - I will also analyze **remote sensing** data by using R for my graduate work. 
 + Therefore, proficiency in R is really important for me!  
