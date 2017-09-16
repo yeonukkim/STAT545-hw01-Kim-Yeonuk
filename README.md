@@ -31,6 +31,7 @@ This is my wedding picture taken prior to actual wedding.
 
 ![wedding](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/DSC00005.jpg)
 
+
 ## 2. My research interest (This section from local)
 
 My previous research was related to data analysis. 
@@ -40,4 +41,5 @@ I analyzed various time series of micrometeorogical data like CO2 flux, evapotra
 ![figure](https://github.com/yeonukkim/STAT545-hw01-Kim-Yeonuk/blob/master/trial2.html)
 
 - I will also analyze **remote sensing** data by using R for my graduate work. Therefore, proficiency in R is really important for me!  
+
 
